@@ -1,4 +1,4 @@
-# Unit 1 - Lesson O: Semantic HTML/CSS
+# Unit 1 - Lesson 1: Semantic HTML/CSS
 ## Learning Lab - A Tribute Page
 
 ### Objective
