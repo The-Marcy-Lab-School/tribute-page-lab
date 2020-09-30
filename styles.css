@@ -1,2 +1,75 @@
 /* Styles go beneath here! */
 
+html{
+    text-align: center;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Helvetica Neue', Arial, sans-serif;
+}
+
+body{
+  color: #333;
+}
+
+h1{
+    padding: 10px;
+    font-size: 3rem;
+    
+    margin: 0px;
+}
+
+figcaption{
+    margin: 15px 0 5px 0;
+}
+
+.img-fluid{
+    width:90%;
+    height: 624px;
+    max-width: 1024px;
+    margin: auto;
+}
+
+.img{
+    width: 100%;
+    height: 100%;
+    background-repeat: no-repeat;
+    background: url("https://c2.staticflickr.com/4/3689/10613180113_fdf7bcd316_b.jpg");
+}
+
+.img:hover{
+    width: 100%;
+    height: 100%;
+    background: url("https://media-exp1.licdn.com/dms/image/C4D03AQGqBP0zPA8Egw/profile-displayphoto-shrink_100_100/0?e=1606953600&v=beta&t=jLKueIUJqM86DEL0m93K9Q7M3V1B7G9Kpr5PbgNvQPo") no-repeat;
+    background-size: 100% 100%;
+}
+
+.img-container{
+    background: white;
+    margin: 0;
+    padding: 10px;
+}
+
+ul {
+  max-width: 550px;
+  margin: 0 auto 50px auto;
+  text-align: left;
+  line-height: 1.6;
+}
+
+li {
+  margin: 16px 0;
+}
+
+blockquote{
+    font-style: italic;
+    max-width: 545px;
+    text-align: left;
+    margin: 0 auto 50px auto;
+}
+
+#container{
+    background-color: #eee;
+}
+
+.external-link{
+    padding-bottom: 20px;
+    margin: 5px auto 20px auto;
+}
