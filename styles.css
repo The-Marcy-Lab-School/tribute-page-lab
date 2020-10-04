@@ -1,2 +1,61 @@
 /* Styles go beneath here! */
+html {
+  scroll-behavior: smooth;
+}
 
+body{
+    background-color: #eeeeee;
+    font-family: sans-serif;
+    color: #333333;  
+    text-align: center;
+}
+header{
+    text-align: center;
+    height: auto;
+    width: 1424px;
+    position: relative;
+    right: 200px;
+    
+}
+h1 {
+    font-size: 40px;
+    
+}
+
+h3{
+    font-size: 15px;
+    font-weight: normal;
+}
+
+img{
+    width: 1021px;
+    height: 592px;
+}
+
+.images {
+    background-color: white;
+    width: auto;
+}
+
+.list ul {
+    width: 600px;
+    text-align: left;
+    margin: auto;
+}
+li{
+    margin-bottom: 20px;
+}
+blockquote{
+    text-align: justify;
+    width: 600px;
+    margin: auto;
+    padding: 10px;
+}
+
+footer p {
+    font-weight: bold;
+    font-size: 20px;
+}
+figcaption{
+    padding: 10px;
+}
