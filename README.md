@@ -5,9 +5,7 @@
 Recreate [this tribute](https://codepen.io/freeCodeCamp/full/zNqgVx) page using semantic HTML and CSS.
 
 ### Directions
-1. Fork the repository.
-2. Clone **your forked** the repository to your local environment.
-3. Make changes to the `index.html` file and the `styles.css` files in order to create a site that is nearly identical to [this one](https://codepen.io/freeCodeCamp/full/zNqgVx).
- > **Note**: Dr. Borlaug sounds like a cool dude and all but you can make this tribute about anyone you'd like. Add your own picture as well. Just make sure that the site is nearly identical in structure.
-4. Add, commit, and push your changes up to your remote repository.
-5. When you are complete, open a Pull Request into `The-Marcy-Lab-School:master` branch.
+  1. If this is a *Practice or Pairing Lab*, fork this repo and clone down the forked repo **OR** if this is a *Lab Assignment* that was generate using Github classroom, then your repo name will end in your username. No need to fork, just clone this repo without forking it.
+  2. Create your HTML and CSS files.
+  3. Stage, commit, and push your changes regularly.
+  4. If this is a *Lab Assignment*, submit the URL of your repo to Canvas. If this is a *Practice or Pairing Lab*, you can open a PR to denote that you are done.
