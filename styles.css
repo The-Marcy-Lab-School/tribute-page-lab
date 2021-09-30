@@ -1,2 +1,48 @@
 /* Styles go beneath here! */
+body {
+    background-color: white;
+}
 
+main, header {
+    background-color: #eeeeee;
+    }
+
+header {
+    color: #333333;
+    font-family: Arial;
+      }
+
+#cap {
+    background-color: white;    
+}
+
+header, p, figcaption, h1, h3 {
+      text-align: center;
+}
+
+ul, li {
+    text-align: left;
+    list-style-position: inside;
+}
+
+h3 {
+    padding-top: 20px;
+}
+
+#cap {
+    color: #5b5b5b;
+}
+
+address {
+    text-align: center;
+    float: left;
+}
+
+img {
+    background-color: white;
+    
+}
+
+a {
+    color: blue;
+}
