@@ -3,6 +3,8 @@
     text-align: center;
 }
 
+#First-Container p,
+
 #Second-Container {
     float:none;
     padding-top: 10px;
@@ -32,6 +34,7 @@
     margin: 0 auto;
     font-family: sans-serif;
 }
+
 
 body {
     background:#efefee;
