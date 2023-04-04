@@ -1,2 +1,51 @@
-/* Styles go beneath here! */
+body{
+    background-color: lightgrey;
+    font-family: sans-serif;
+}
+header {
+    text-align: center;
+    
+}
+#titleCaption{
+    font-size: 10px;
+    
+    color: #474747;
+    font-weight: bold;
+}
 
+#picture{
+    background-color: white;
+    text-align: center;
+    font-size: 10px;
+    padding-bottom: 5px;
+    padding-top: 10px;
+}
+img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 70%;
+}
+
+#listOfDates{
+    display: block;
+    margin: 0 auto;
+    width: 400px;
+    text-align: left;
+}
+#timelineHeader{
+    text-align: center;
+    
+}
+li {
+    padding-bottom:10px;
+    font-size: small;
+    font-weight: normal
+}
+#quote {
+    display:block;
+    margin:0 auto;
+    width: 400px;
+    text-align: left;
+    font-size: small;
+}
