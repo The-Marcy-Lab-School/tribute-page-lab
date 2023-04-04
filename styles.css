@@ -3,15 +3,22 @@
     text-align: center;
 }
 
-#First-Container p,
 
+#First-Container p, #Second-Container figcaption, li {
+    font-size:11px;
+    color:#5F5F5F;
+}
+
+li strong {
+    color: black;
+}
 #Second-Container {
     float:none;
     padding-top: 10px;
     padding-left: 450px;
     padding-bottom: 10px;
     background:white;
-    border:dashed;
+    
 }
 
 
