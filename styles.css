@@ -1,2 +1,66 @@
 /* Styles go beneath here! */
 
+body {
+    background-color: #eeeeee;
+    text-align: center;
+    font-family: Sans-Serif;
+}
+
+h1 {
+    color: #333333;
+    text-align: center;
+}
+
+p1 {
+    color: #b0b0b0;
+}
+
+img {
+    background-color: white;
+    width: 1023px;
+    height: 450px;
+}
+
+figure {
+    background-color: white;
+
+}
+
+li {
+    width: 572px;
+    font-size: 12pt;
+    margin: 16px 0;
+    color: #4a4a4a;
+    text-align: left;
+
+}
+
+.gray {
+
+    color: #333333;
+
+}
+
+ul {
+    max-width: 550px;
+    margin: 0 auto 50px auto;
+}
+
+.demopara {
+    line-height: 2;
+}
+
+p3 {
+    color: #4a4a4a;
+    font-size: 12pt;
+    font-style: italic;
+    max-width: 545px;
+    margin: 0 auto 50px auto;
+    text-align: left;
+    display: block;
+}
+
+h3 {
+    font-weight: bold;
+    color: #333333;
+}
