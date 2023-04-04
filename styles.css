@@ -1,2 +1,57 @@
-/* Styles go beneath here! */
 
+#First-Container {
+    text-align: center;
+}
+
+#Second-Container {
+    float:none;
+    padding-top: 10px;
+    padding-left: 450px;
+    padding-bottom: 10px;
+    background:white;
+    border:dashed;
+}
+
+
+#Third-Container {
+    width:500px;
+    text-align: left;
+    display: block;
+    margin: 0 auto;
+    font-family: sans-serif;
+}
+
+#Second-Tittle {
+    text-align: center;
+}
+
+#Sign-Off {
+     width:500px;
+    text-align: left;
+    display: block;
+    margin: 0 auto;
+    font-family: sans-serif;
+}
+
+body {
+    background:#efefee;
+}
+
+img {
+    height: 450px;
+    width:740px ;
+}
+
+
+li {
+    padding-bottom: 10px
+}
+
+
+figcaption {
+    width:720px;
+    text-align: center;
+    font-size: 12px;
+    font-family: sans-serif;
+    
+}
