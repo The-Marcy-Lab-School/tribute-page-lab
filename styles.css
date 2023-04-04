@@ -1,2 +1,70 @@
 /* Styles go beneath here! */
 
+h1{
+    font-size: 23pt
+}
+
+body {
+    color: black;
+    background-color: #EEEEEE;
+    text-align: center;
+    font-family: sans-serif;
+    font-size: 10pt
+}
+img{
+    margin-left: 60px;
+    margin-right: 60px;
+    width: 100%;
+    height: auto;
+}
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 90%;
+}
+
+#p1 {
+    font-size: 13pt;
+}
+
+figurecaption {
+   display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 90%;
+  padding-top: 15px;
+}
+#div1 {
+    background-color: white;
+    padding-left: 90px;
+    padding-right: 90px;
+    padding-bottom: 1px
+}
+#div2 {
+    padding: 12px
+}
+ #div3 {
+     display: block;
+    margin: 0 auto;
+    width: 450px;
+}
+ul {
+    text-align: left;
+}
+li {
+    padding-bottom: 15px;
+}
+p {
+    display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 90%;
+}
+
+#div4 {
+     display: block;
+    margin: 0 auto;
+    width: 450px;
+    text-align: left
+}
